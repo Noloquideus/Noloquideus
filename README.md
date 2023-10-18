@@ -8,6 +8,7 @@ ___
 ![trophy](https://github-profile-trophy.vercel.app/?username=Noloquideus&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noloquideus&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noloquideus&layout=pie&theme=radical)]
+![Leetcode Stats](https://leetcard.jacoblin.cool/Noloquideus?theme=dark) ![Codewars](https://github.r2v.ch/codewars?user=Noloquideus&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
