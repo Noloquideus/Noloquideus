@@ -9,9 +9,18 @@ ___
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Noloquideus&theme=onedark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noloquideus&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
+___
+<img src="hackerrank/badges.png" alt="badges" width="300"/>
+<img src="hackerrank/c_sharp_basic_certificate.jpg" alt="c_sharp" width="300"/>
+<img src="hackerrank/problem_solving_basic_certificate.jpg" alt="problem" width="300"/>
+<img src="hackerrank/python_basic_certificate.jpg" alt="python" width="300"/>
+<img src="hackerrank/software_engineer_certificate.jpg" alt="se" width="300"/>
+<img src="hackerrank/software_engineer_intern_certificate.jpg" alt="sei" width="300"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noloquideus&layout=pie&theme=radical)
+___
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noloquideus&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noloquideus&layout=pie&theme=radical)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Noloquideus?theme=dark) 
 
