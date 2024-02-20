@@ -2,7 +2,7 @@
 
 ![Russia](https://img.shields.io/badge/-Russia-black?style=for-the-badge&logo=Russia)
 ![Saint Petersburg](https://img.shields.io/badge/-Saint_Petersburg-black?style=for-the-badge&logo=Saint_Petersburg) 
-![20y.o](https://img.shields.io/badge/-20y.o.-black?style=for-the-badge&logo=20)
+![21y.o](https://img.shields.io/badge/-20y.o.-black?style=for-the-badge&logo=20)
 ![Manukian](https://img.shields.io/badge/-Manukian-black?style=for-the-badge&logo=Manukian)
 ![Daniil](https://img.shields.io/badge/-Daniil-black?style=for-the-badge&logo=Daniil)
 ___
