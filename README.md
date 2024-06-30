@@ -7,17 +7,10 @@
 <h1 align="center">Stats</h1>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noloquideus&theme=jolly" alt="Profile Details">
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noloquideus&theme=jolly" alt="Repos per Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noloquideus&theme=jolly" alt="Most Commit Language">
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noloquideus&theme=jolly" alt="Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noloquideus&theme=jolly&utcOffset=8" alt="Productive Time">
-  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noloquideus&theme=jolly" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noloquideus&theme=jolly" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noloquideus&theme=jolly" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noloquideus&theme=jolly&utcOffset=8" alt="Productive Time">
 </div>
 
 
