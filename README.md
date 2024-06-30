@@ -10,7 +10,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noloquideus&theme=jolly" alt="Repos per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noloquideus&theme=jolly" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noloquideus&theme=jolly" alt="Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noloquideus&theme=jolly&utcOffset=8" alt="Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noloquideus&theme=jolly&utcOffset=3" alt="Productive Time">
 </div>
 
 
