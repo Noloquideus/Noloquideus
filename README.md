@@ -4,14 +4,10 @@
 ![Saint Petersburg](https://img.shields.io/badge/-Saint_Petersburg-black?style=for-the-badge&logo=Saint_Petersburg) 
 ![21y.o](https://img.shields.io/badge/-21y.o.-black?style=for-the-badge&logo=20)
 ![Manukian](https://img.shields.io/badge/-Manukian-black?style=for-the-badge&logo=Manukian)
-![Daniil](https://img.shields.io/badge/-Daniil-black?style=for-the-badge&logo=Daniil)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Noloquideus)
+![Daniil](https://img.shields.io/badge/-Daniil-black?style=for-the-badge&logo=Daniil) 
 
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Noloquideus&theme=onedark) -->
-
-<h1 align="center">Skills</h1>
+<h1 align="center">My Skills</h1>
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="static/python.png" alt="python" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="static/git.png" alt="Git" width="40" height="40"/> </a>
