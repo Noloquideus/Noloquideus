@@ -1,24 +1,48 @@
+<div align="center">
+    <a href="https://github.com/Noloquideus" target="_blank">
+        <img alt="Noloquideus" src="https://typograssy.deno.dev/api?text=Noloquideus&l0=000000&l1=c867ed&l2=da9af3&l3=edccf9&l4=9a608f&bg=000000&comment=">
+    </a>
+</div>
+
+<h1 align="center">Stats</h1>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noloquideus&theme=jolly" alt="Profile Details">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noloquideus&theme=jolly" alt="Repos per Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noloquideus&theme=jolly" alt="Most Commit Language">
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noloquideus&theme=jolly" alt="Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noloquideus&theme=jolly&utcOffset=8" alt="Productive Time">
+  </div>
+</div>
 
 
-![Russia](https://img.shields.io/badge/-Russia-black?style=for-the-badge&logo=Russia)
-![Saint Petersburg](https://img.shields.io/badge/-Saint_Petersburg-black?style=for-the-badge&logo=Saint_Petersburg) 
-![21y.o](https://img.shields.io/badge/-21y.o.-black?style=for-the-badge&logo=20)
-![Manukian](https://img.shields.io/badge/-Manukian-black?style=for-the-badge&logo=Manukian)
-![Daniil](https://img.shields.io/badge/-Daniil-black?style=for-the-badge&logo=Daniil) 
-
-
-<h1 align="center">My Skills</h1>
+<h1 align="center">Skills</h1>
+<div align="center">
+<a href="" target="_blank" rel="noreferrer"> <img src="static/python.png" alt="python" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/git.png" alt="Git" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/linux.png" alt="Linux" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/grafana.png" alt="Grafana" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/prometheus.png" alt="Prometheus" width="50" height="50"/> </a>
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="static/python.png" alt="python" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/git.png" alt="Git" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/postgresql.png" alt="Postgresql" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/redis.png" alt="Redis" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/mongodb.png" alt="Mongo" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/linux.png" alt="Linux" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/docker.png" alt="Docker" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/nginx.png" alt="Nginx" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/kafka.svg" alt="Kafka" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/rabbitmq.svg" alt="Rmq" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/kong.png" alt="Kong" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/grafana.png" alt="Grafan" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="static/prometheus.png" alt="Prometheus" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/postgresql.png" alt="Postgresql" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/redis.png" alt="Redis" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/docker.png" alt="Docker" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/nginx.png" alt="Nginx" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="static/rabbitmq.svg" alt="Rmq" width="50" height="50"/> </a>
+</div>
+
+
+
+<h2 align="center">Profile Views</h2>
+
+<div align="center">
+    <a href="https://github.com/journey-ad/Moe-Counter" target="_blank">
+        <img src="https://count.getloli.com/get/@Noloquideus?theme=rule34" alt="Profile Views">
+    </a>
+</div>
+
